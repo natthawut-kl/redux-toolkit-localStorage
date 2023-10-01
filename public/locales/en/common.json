@@ -1,0 +1,48 @@
+{
+    "title": "Form page management",
+    "home_page": "Home page",
+    "currentLang": "English",
+    
+    "word": {
+        "word": "Prefix",
+        "mr": "Mr.",
+        "miss": "Miss",
+        "mrs": "Mrs.",
+        "first_name": "Name",
+        "last_name": "Last name",
+        "birthday": "Birthday",
+        "nationality": "Nationality",
+        "id_card_number": "Id card number",
+        "sex": "Sex",
+        "man": "Man",
+        "woman": "Woman",
+        "not_specified": "Not specified",
+        "phone_number": "Phone number",
+        "passport": "Passport",
+        "expected_salary": "Expected salary",
+        "clear_data": "Clear data",
+        "send_data": "Send data",
+        "delete_data": "Delete data",
+        "name": "Name",
+        "manage": "Manage",
+        "select_all": "Select all"
+    },
+    "phone": {
+        "thai": "Thailand +66",
+        "laos": "Laos +856"
+    },
+    "nationality": {
+        "thai": "Thailand",
+        "laos": "Laos"
+    },
+    "validate": {
+        "word": "Please select a prefix",
+        "first_name": "Please specify your name",
+        "last_name": "Please specify last name",
+        "birthday": "Please select date of birth",
+        "nationality": "Please select nationality",
+        "sex": "Please select gender",
+        "phone_number": "Please specify your mobile phone number",
+        "expected_salary": "Please specify expected salary"
+    }
+}
